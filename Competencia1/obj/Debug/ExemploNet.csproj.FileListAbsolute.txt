@@ -1,0 +1,8 @@
+C:\Users\Nayara\Desktop\SENAI\checklistOOP\Competencia1\Competencia1\bin\Debug\Competencia1.exe.config
+C:\Users\Nayara\Desktop\SENAI\checklistOOP\Competencia1\Competencia1\bin\Debug\Competencia1.exe
+C:\Users\Nayara\Desktop\SENAI\checklistOOP\Competencia1\Competencia1\bin\Debug\Competencia1.pdb
+C:\Users\Nayara\Desktop\SENAI\checklistOOP\Competencia1\Competencia1\obj\Debug\ExemploNet.csproj.AssemblyReference.cache
+C:\Users\Nayara\Desktop\SENAI\checklistOOP\Competencia1\Competencia1\obj\Debug\ExemploNet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nayara\Desktop\SENAI\checklistOOP\Competencia1\Competencia1\obj\Debug\ExemploNet.csproj.CoreCompileInputs.cache
+C:\Users\Nayara\Desktop\SENAI\checklistOOP\Competencia1\Competencia1\obj\Debug\Competencia1.exe
+C:\Users\Nayara\Desktop\SENAI\checklistOOP\Competencia1\Competencia1\obj\Debug\Competencia1.pdb
